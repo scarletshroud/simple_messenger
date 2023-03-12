@@ -1,4 +1,4 @@
-# Assignment **Simple messanger**
+# Assignment **Simple messenger**
 
 You need to develop the simplest instant messaging system (chat, messenger)
 
